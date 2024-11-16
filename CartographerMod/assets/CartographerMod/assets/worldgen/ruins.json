@@ -1,0 +1,36 @@
+{
+    "type": "ruin",
+    "size": [5, 4, 5],
+    "blockLayers": [
+      {
+        "block": "game:cobblestone",
+        "height": 1
+      },
+      {
+        "block": "game:mossycobblestone",
+        "height": 1,
+        "pattern": "random"
+      },
+      {
+        "block": "game:air",
+        "height": 2
+      }
+    ],
+    "decorations": [
+      {
+        "block": "game:chest",
+        "positions": [[2, 0, 2]],
+        "lootTable": "cartographer-mod:maploot"
+      },
+      {
+        "block": "game:torch",
+        "positions": [[3, 2, 1]]
+      }
+    ],
+    "spawnSettings": {
+      "chance": 0.05,
+      "biomes": ["plains", "forest"],
+      "maxHeight": 80
+    }
+  }
+  

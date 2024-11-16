@@ -1,0 +1,46 @@
+{
+    "type": "structure",
+    "size": [15, 10, 15],
+    "blockLayers": [
+      {
+        "block": "game:stonebricks",
+        "height": 1
+      },
+      {
+        "block": "game:planks",
+        "height": 3
+      },
+      {
+        "block": "game:air",
+        "height": 6
+      }
+    ],
+    "decorations": [
+      {
+        "block": "game:bookshelf",
+        "positions": [[5, 1, 5], [6, 1, 5], [7, 1, 5]]
+      },
+      {
+        "block": "game:chest",
+        "positions": [[10, 1, 10]],
+        "lootTable": "cartographer-mod:rareloot"
+      },
+      {
+        "block": "game:lantern",
+        "positions": [[7, 3, 7]]
+      }
+    ],
+    "entities": [
+      {
+        "type": "trader",
+        "code": "cartographer-mod:cartographer",
+        "position": [7, 1, 7]
+      }
+    ],
+    "spawnSettings": {
+      "chance": 0.01,
+      "biomes": ["forest", "mountain"],
+      "minDistanceFromSpawn": 500
+    }
+  }
+  

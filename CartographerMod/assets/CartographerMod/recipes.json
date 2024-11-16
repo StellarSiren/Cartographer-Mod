@@ -1,0 +1,21 @@
+[
+  {
+    "type": "shaped",
+    "output": { "code": "completed_map", "quantity": 1 },
+    "recipe": [
+      { "code": "map_fragment", "quantity": 4 },
+      { "code": "paper", "quantity": 2 },
+      { "code": "glue", "quantity": 1 }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": { "code": "cartography_station", "quantity": 1 },
+    "recipe": [
+      { "code": "wood_planks", "quantity": 4 },
+      { "code": "iron_gear", "quantity": 2 },
+      { "code": "magnifying_glass", "quantity": 1 }
+    ]
+  }
+]
+
