@@ -1,0 +1,12 @@
+{
+    "type": "mod",
+    "name": "Cartographer Mod",
+    "version": "1.0.0",
+    "description": "Adds a hidden guild of ancient cartographers, rare maps, and exploration rewards to Vintage Story.",
+    "authors": ["Reiko"],
+    "dependencies": {
+      "game": "1.18.0"
+    },
+    "website": ""
+  }
+  

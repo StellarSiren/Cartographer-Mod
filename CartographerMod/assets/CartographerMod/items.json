@@ -1,0 +1,26 @@
+[
+  {
+    "code": "map_fragment",
+    "class": "Item",
+    "attributes": {
+      "name": "Ancient Map Fragment",
+      "description": "A fragment of an ancient map, used to piece together hidden secrets."
+    }
+  },
+  {
+    "code": "completed_map",
+    "class": "Item",
+    "attributes": {
+      "name": "Completed Ancient Map",
+      "description": "A fully restored ancient map revealing a hidden treasure location."
+    }
+  },
+  {
+    "code": "treasure_key",
+    "class": "Item",
+    "attributes": {
+      "name": "Guild Treasure Key",
+      "description": "A rare key obtained from the Forgotten Cartographers' Guild to unlock treasure sites."
+    }
+  }
+]
